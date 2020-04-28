@@ -1,5 +1,6 @@
 Public Class VamPizda {
 	public static void main(String args[]){
-		int one = 1;	
+		int one = 1;
+		String ssh = "add new ssh key and Auth";	
 	}
 }
